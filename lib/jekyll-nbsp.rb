@@ -1,1 +1,1 @@
-require "jekyll-nbsp/jekyll-nbsp"
+require_relative "jekyll-nbsp/jekyll-nbsp"

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/jekyll/nbsp/version"
+require_relative "lib/jekyll-nbsp/version"
 
 Gem::Specification.new do |spec|
   spec.name = "jekyll-nbsp"
