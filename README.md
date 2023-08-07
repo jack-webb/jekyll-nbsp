@@ -1,6 +1,8 @@
 # Jekyll Non-breaking space filter (jekyll-nbsp)
 
-A simple non-breaking space filter for Liquid/Jekyll. Replaces spaces with '\u00A0'.
+A simple non-breaking space filter for Liquid/Jekyll. Replaces spaces with '\u00A0'. 
+
+https://rubygems.org/gems/jekyll-nbsp
 
 ## Installation
 
